@@ -42,7 +42,7 @@ function addTask() {
         setNewTask("");  
     }
 
-* }
+ }
 
 **Reordering Tasks**: Leveraging array destructuring to swap task positions:  
 function moveTaskUp(index) {  
@@ -52,7 +52,7 @@ function moveTaskUp(index) {
         setTasks(updatedTasks);  
     }
 
-* }
+ }
 
 ## **How to Run**
 

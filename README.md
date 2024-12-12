@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **To-Do List Application**
 
 ## **Overview**
